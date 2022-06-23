@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfTrackItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackItem>
+    <Id>0</Id>
+    <IsPlaying>false</IsPlaying>
+    <Path>D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\Music\02. Unsainted.mp3</Path>
+    <Artist>Slipknot</Artist>
+    <Album>We Are Not Your Kind</Album>
+    <Title>Unsainted</Title>
+    <Duration>04:21</Duration>
+    <BitRate>320</BitRate>
+    <Khz>44,0</Khz>
+  </TrackItem>
+  <TrackItem>
+    <Id>1</Id>
+    <IsPlaying>false</IsPlaying>
+    <Path>D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\Music\11 - Bohemian Rhapsody.MP3</Path>
+    <Artist>Queen</Artist>
+    <Album>A Night At The Opera</Album>
+    <Title>Bohemian Rhapsody</Title>
+    <Duration>05:54</Duration>
+    <BitRate>128</BitRate>
+    <Khz>44,0</Khz>
+  </TrackItem>
+  <TrackItem>
+    <Id>2</Id>
+    <IsPlaying>false</IsPlaying>
+    <Path>D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\Music\Aerosmith  - I Don't Want To Miss A Thing.mp3</Path>
+    <Artist>Aerosmith</Artist>
+    <Album>This file from http://rmp.ru</Album>
+    <Title>I Don't Want To Miss A Thing</Title>
+    <Duration>04:56</Duration>
+    <BitRate>128</BitRate>
+    <Khz>44,0</Khz>
+  </TrackItem>
+  <TrackItem>
+    <Id>3</Id>
+    <IsPlaying>false</IsPlaying>
+    <Path>D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\Music\GodSmack - I Stand Alone.mp3</Path>
+    <Artist>GodSmack</Artist>
+    <Album>Faceless</Album>
+    <Title>I Stand Alone</Title>
+    <Duration>04:06</Duration>
+    <BitRate>320</BitRate>
+    <Khz>44,0</Khz>
+  </TrackItem>
+  <TrackItem>
+    <Id>4</Id>
+    <IsPlaying>false</IsPlaying>
+    <Path>D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\Music\System of a Down - Boom.mp3</Path>
+    <Artist>System of a Down</Artist>
+    <Album>Steal This Album!</Album>
+    <Title>Boom</Title>
+    <Duration>02:16</Duration>
+    <BitRate>192</BitRate>
+    <Khz>44,0</Khz>
+  </TrackItem>
+</ArrayOfTrackItem>

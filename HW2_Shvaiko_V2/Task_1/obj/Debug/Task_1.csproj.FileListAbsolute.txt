@@ -1,0 +1,7 @@
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\bin\Debug\Task_1.exe.config
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\bin\Debug\Task_1.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\bin\Debug\Task_1.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\obj\Debug\Task_1.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_1\obj\Debug\Task_1.pdb

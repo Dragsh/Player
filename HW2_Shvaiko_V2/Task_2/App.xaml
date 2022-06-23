@@ -1,0 +1,51 @@
+﻿<Application x:Class="Task_2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Task_2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <DataTemplate x:Key="TrackTemplate">
+            <Grid Margin="1,0,1,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="286"/>
+                    <ColumnDefinition Width="60"/> 
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0"  Height="18" LastChildFill="True"  >
+                    <TextBlock x:Name="TxbIdTrack" FontSize="14" DockPanel.Dock="Left"  Text="{Binding Path=Id}" Width="Auto"  TextAlignment="Left" />
+                    <TextBlock x:Name="TxbDot" FontSize="14" DockPanel.Dock="Left" Width="Auto" Text=". "  TextAlignment="Left"/>
+                    <TextBlock x:Name="TxbArtist" FontSize="14" DockPanel.Dock="Left"  Text="{Binding Path=Artist}" Width="Auto"  TextAlignment="Left"/>
+                    <TextBlock x:Name="TxbDeffise" FontSize="14" DockPanel.Dock="Left" Width="Auto" Text="-"  TextAlignment="Left"/>
+                    <TextBlock x:Name="TxbTitle" FontSize="14" Width ="Auto" Text="{Binding Path=Title}"/>
+                </DockPanel>
+                <TextBlock x:Name="TxbDuration" Grid.Column="1" Width="60" FontSize="14"  Text="{Binding Path=Duration}"  TextAlignment="Center"/>
+            </Grid>
+
+            <!-- Триггер данных - дополнительное оформление, в зависимости от значения данных
+                 в данном случае - от названия города, срабатывает на Ольгино 
+            -->
+            <DataTemplate.Triggers>
+                <DataTrigger Binding="{Binding Path=IsPlaying, Mode=TwoWay}" Value="true">
+                    <Setter TargetName="TxbArtist" Property="Foreground" Value= "DarkGreen"/>
+                    <Setter TargetName="TxbTitle" Property="Foreground" Value= "DarkGreen"/>
+                    <Setter TargetName="TxbDuration" Property="Foreground" Value= "DarkGreen"/>
+                    <Setter TargetName="TxbArtist" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbTitle" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbDuration" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbDeffise" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbDeffise" Property="Foreground" Value= "DarkGreen"/>
+                    <Setter TargetName="TxbIdTrack" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbIdTrack" Property="Foreground" Value= "DarkGreen"/>
+                    <Setter TargetName="TxbDot" Property="FontWeight" Value= "Bold"/>
+                    <Setter TargetName="TxbDot" Property="Foreground" Value= "DarkGreen"/>
+                </DataTrigger>
+            </DataTemplate.Triggers>
+
+
+
+
+
+        </DataTemplate>
+         
+    </Application.Resources>
+</Application>

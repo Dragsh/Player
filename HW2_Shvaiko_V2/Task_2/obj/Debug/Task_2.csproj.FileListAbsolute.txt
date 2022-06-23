@@ -1,0 +1,527 @@
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe.config
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Task_2.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\App.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.baml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.g.resources
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\taglib-sharp.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\Task_2_Content.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\obj\Debug\App.baml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe.config
+D:\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe
+D:\HW2_Shvaiko\Task_2\bin\Debug\Task_2.pdb
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\netstandard.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.AppContext.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.Concurrent.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.NonGeneric.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.Specialized.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Console.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Data.Common.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Contracts.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Debug.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Process.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Tools.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Tracing.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Drawing.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Dynamic.Runtime.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.Calendars.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.Extensions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Compression.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.IsolatedStorage.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Pipes.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Expressions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Parallel.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Queryable.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Http.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.NameResolution.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.NetworkInformation.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Ping.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Requests.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Security.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Sockets.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebSockets.Client.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebSockets.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ObjectModel.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.Extensions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.Reader.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.ResourceManager.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.Writer.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Extensions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Handles.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.InteropServices.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Numerics.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Claims.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Principal.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Security.SecureString.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Text.Encoding.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Text.RegularExpressions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Overlapped.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Tasks.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Thread.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.ThreadPool.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Timer.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.ValueTuple.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.ReaderWriter.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XDocument.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XmlDocument.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XmlSerializer.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XPath.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\taglib-sharp.dll
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.exe.config
+D:\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.g.cs
+D:\HW2_Shvaiko\Task_2\obj\Debug\App.g.cs
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2_Content.g.cs
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+D:\HW2_Shvaiko\Task_2\obj\Debug\App.baml
+D:\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.baml
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.g.resources
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.GenerateResource.Cache
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.exe
+D:\HW2_Shvaiko\Task_2\obj\Debug\Task_2.pdb
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Task_2.exe
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\netstandard.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.AppContext.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Console.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Data.Common.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Compression.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.Pipes.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Http.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Ping.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Requests.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Security.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.Sockets.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ObjectModel.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.Reader.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Resources.Writer.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Claims.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.Principal.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Security.SecureString.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Text.Encoding.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Thread.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Threading.Timer.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.ValueTuple.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XPath.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\taglib-sharp.dll
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.exe.config
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.g.cs
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\App.g.cs
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2_Content.g.cs
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\App.baml
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\MainWindow.baml
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.g.resources
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.exe
+C:\Users\Shvai\OneDrive\Рабочий стол\HW2_Shvaiko\Task_2\obj\Debug\Task_2.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.exe.config
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\netstandard.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.AppContext.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.Concurrent.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.NonGeneric.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.Specialized.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Console.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Data.Common.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Debug.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Process.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Tools.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Drawing.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Dynamic.Runtime.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.Calendars.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.Extensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Compression.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Pipes.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Expressions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Parallel.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Queryable.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Http.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.NameResolution.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.NetworkInformation.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Ping.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Requests.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Security.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Sockets.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebSockets.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ObjectModel.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.Extensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.Reader.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.ResourceManager.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.Writer.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Extensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Handles.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.InteropServices.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Numerics.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Claims.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Principal.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.SecureString.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.Encoding.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.RegularExpressions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Overlapped.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Tasks.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Thread.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.ThreadPool.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Timer.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ValueTuple.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XDocument.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XmlDocument.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XPath.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\taglib-sharp.dll
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.exe.config
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\MainWindow.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\App.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_Content.g.cs
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\App.baml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\MainWindow.baml
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.g.resources
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.exe
+D:\Шаг\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.pdb
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.exe.config
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.exe
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Task_2.pdb
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\netstandard.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.AppContext.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.Concurrent.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.NonGeneric.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Collections.Specialized.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Console.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Data.Common.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Debug.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Process.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Tools.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Drawing.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Dynamic.Runtime.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.Calendars.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Globalization.Extensions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Compression.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.Pipes.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Expressions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Parallel.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Linq.Queryable.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Http.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.NameResolution.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.NetworkInformation.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Ping.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Requests.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Security.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.Sockets.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Net.WebSockets.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ObjectModel.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.Extensions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Reflection.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.Reader.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.ResourceManager.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Resources.Writer.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Extensions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Handles.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.InteropServices.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Numerics.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Claims.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.Principal.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Security.SecureString.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.Encoding.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Text.RegularExpressions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Overlapped.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Tasks.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Thread.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.ThreadPool.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Threading.Timer.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.ValueTuple.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XDocument.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XmlDocument.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XPath.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\taglib-sharp.dll
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.exe.config
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\MainWindow.g.cs
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\App.g.cs
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_Content.g.cs
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_MarkupCompile.cache
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2_MarkupCompile.lref
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\App.baml
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\MainWindow.baml
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.g.resources
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.exe
+D:\Shag\Системное програмирование\02_Zanatie_SPU_811_06_06_2020_SP_1591475019\HW2_Shvaiko_V2\Task_2\obj\Debug\Task_2.pdb

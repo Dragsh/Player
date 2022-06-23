@@ -1,0 +1,246 @@
+﻿<Window x:Class="Task_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_2"
+        mc:Ignorable="d"
+        Title="Simple Winamp" Height="450" Width="400" MaxWidth="400" MinWidth="400" FontSize="14" ResizeMode ="CanResize"  FontFamily="Verdana"
+        ShowInTaskbar ="True"   Icon="Imagies/songplaylist.ico" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid x:Name="GridMain">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="155"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Vertical" Margin="5">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                    <Border  Margin="5" BorderBrush="Blue" CornerRadius="2" BorderThickness="1">
+                        <TextBlock x:Name="TxbTimeTrekStatus" Height="40" Width="100" Text="00:00" FontFamily="Segoe" FontSize="18" FontWeight="Bold"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" Padding="5,10,5,0"   />
+                    </Border>
+
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock x:Name="TextBlockBitRate" Width="22" Text="000" FontSize="11" TextAlignment="Center" Margin="7,0,0,0"/>
+                        <TextBlock  Width="25" Text="kbps" FontSize="10" TextAlignment="Center" Margin="0,0,4,0" Padding="0,1,0,0"/>
+                        <TextBlock x:Name="TextBlock_kHz" Width="24" Text="00,0" FontSize="10" TextAlignment="Center" Margin="0,0,0,0" Padding="0,1,0,0"/>
+                        <TextBlock  Width="20" Text="kHz" FontSize="10" TextAlignment="Center" Margin="0,0,0,0" Padding="0,1,0,0"/>
+                    </StackPanel>
+
+                </StackPanel>
+
+                
+
+                <StackPanel Margin="5" Orientation="Vertical" Width="auto">
+                    <Border Margin="5" BorderBrush="Blue" CornerRadius="2" BorderThickness="1">
+                       <!-- <TextBlock x:Name="TxbTrekInfo"  Width="250" Text="Инфо о треке" TextAlignment="Center"/> -->
+                       <Canvas x:Name="Canvas" Background="Transparent" Height="25" Width="250"
+                       VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <TextBlock x:Name="TxbTrekInfo" VerticalAlignment="Center" FontSize="15"  FontWeight="Bold" Foreground="#555"
+                                       Text="Трек" HorizontalAlignment="Center"  Canvas.Right="0" Margin="0,3,0,0">
+                           <TextBlock.Triggers>
+                               <EventTrigger RoutedEvent="TextBlock.Loaded">
+                                   <EventTrigger.Actions>
+                                       <BeginStoryboard>
+                                           <Storyboard>
+                                               <DoubleAnimation Storyboard.TargetProperty="(Canvas.Left)" From="0" To="250" 
+                                                                Duration="0:0:10" RepeatBehavior="Forever"/>
+                                           </Storyboard>
+                                       </BeginStoryboard>
+                                   </EventTrigger.Actions>
+                               </EventTrigger>
+                           </TextBlock.Triggers>
+                       </TextBlock>
+                       </Canvas>
+
+                    </Border>
+                    <Grid Height="28" Margin="5,1,5,1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Slider AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="0" Cursor="Hand" IsMoveToPointEnabled="True"  Grid.Column="0" Minimum="0" Maximum="100" Margin="5" ToolTip="Громкость" Foreground="Aqua" 
+                                Value="{Binding ElementName=MediaElementPlayer, Path=Volume, Mode=TwoWay}" Grid.ColumnSpan="2">
+                        </Slider>
+
+                        <Slider AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="0" Cursor="Hand" Grid.Column="2" Minimum="-100" Maximum="100" Margin="5" ToolTip="Баланс" Foreground="Aqua"
+                                Value="{Binding ElementName=MediaElementPlayer, Path=Balance, Mode=TwoWay}">
+                        </Slider>
+
+                    </Grid>
+                </StackPanel>
+
+
+            </StackPanel>
+
+            <!--Позиция в файле-->
+            <Slider x:Name="SbProgress" Thumb.DragStarted="SliderProgres_DragStarted"  AutoToolTipPlacement="TopLeft" AutoToolTipPrecision="0" Cursor="Hand" IsMoveToPointEnabled="True"
+                    Thumb.DragCompleted="SliderProgres_DragCompleted"
+                    ValueChanged="SliderProgres_ValueChanged"
+                    Minimum="0" Maximum="100" Margin="5" ToolTip="Перемотка по времени" Foreground="Aqua" />
+            <ToolBar Margin="5,0,5,0">
+                <Button Click="Previos_Track">
+                    <Image Source="Imagies/backbutton.png" ToolTip="Предыдущий трек"/>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard BeginTime="00:00:00" 
+                                                RepeatBehavior="Forever"
+                                                Storyboard.TargetName="TxbTimeTrekStatus" 
+                                                Storyboard.TargetProperty="(Foreground).(SolidColorBrush.Color)">
+                                        <ColorAnimation From="Black" To="Black" Duration="0:0:0"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Button.Triggers>
+
+                </Button>
+                <Button Click="Play_Trek">
+                    <Image Source="Imagies/playbutton.png" ToolTip="Воспроизвести"/>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard BeginTime="00:00:00" 
+                                                RepeatBehavior="Forever"
+                                                Storyboard.TargetName="TxbTimeTrekStatus" 
+                                                Storyboard.TargetProperty="(Foreground).(SolidColorBrush.Color)">
+                                        <ColorAnimation From="Black" To="Black" Duration="0:0:0"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="Pause_Click">
+                    <Image Source="Imagies/pausebutton.png" ToolTip="Пауза"/>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard BeginTime="00:00:00" 
+                                                RepeatBehavior="Forever"
+                                                Storyboard.TargetName="TxbTimeTrekStatus" 
+                                                Storyboard.TargetProperty="(Foreground).(SolidColorBrush.Color)">
+                                        <ColorAnimation From="Black" To="White" Duration="0:0:2"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        
+                    </Button.Triggers>
+
+                </Button>
+                <Button Click="Stop_Trek">
+                    <Image Source="Imagies/squareinsideacircle.png" Height="31" Width="28" ToolTip="Остановить"/>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard BeginTime="00:00:00" 
+                                                RepeatBehavior="Forever"
+                                                Storyboard.TargetName="TxbTimeTrekStatus" 
+                                                Storyboard.TargetProperty="(Foreground).(SolidColorBrush.Color)">
+                                        <ColorAnimation From="Black" To="Black" Duration="0:0:0"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Button.Triggers>
+
+                </Button>
+                <Button Click="Next_Track">
+                    <Image Source="Imagies/nextbutton_120635.png" Height="31" Width="28" ToolTip="Следующий трек"/>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard BeginTime="00:00:00" 
+                                                RepeatBehavior="Forever"
+                                                Storyboard.TargetName="TxbTimeTrekStatus" 
+                                                Storyboard.TargetProperty="(Foreground).(SolidColorBrush.Color)">
+                                        <ColorAnimation From="Black" To="Black" Duration="0:0:0"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+
+                <StackPanel Margin="120,0,0,0" >
+                    <Image Source="Imagies/intersectingarr.png" Height="23" Width="20" ToolTip="Перемешать плейлист" />
+                    <CheckBox x:Name="CheckBoxShaffl" HorizontalAlignment="Center"/>
+                </StackPanel>
+
+                <StackPanel Margin="4,0,0,0"  >
+                    <Image Source="Imagies/twocirclingarrows.png" Height="23" Width="20" ToolTip="Повтор плейлиста" />
+                    <CheckBox x:Name="CheckBoxRepit" HorizontalAlignment="Center"/>
+                </StackPanel>
+
+            </ToolBar>
+
+            <MediaElement x:Name="MediaElementPlayer"  LoadedBehavior="Manual" Stretch="None" MediaOpened="Player_MediaOpened"  MediaEnded="_player_MediaEnded"/>
+
+        </StackPanel>
+        <GroupBox Grid.Row="1" Margin="5" Header="Плейлист" BorderBrush="Blue"  BorderThickness="1">
+            <ListBox x:Name="LbxTreks" ItemTemplate="{DynamicResource TrackTemplate}" 
+                     AllowDrop="True" 
+                     PreviewDrop="LbxTreks_OnPreviewDrop" PreviewDragEnter="LbxTreks_OnPreviewDragEnter" PreviewDragOver="LbxTreks_OnPreviewDragEnter" 
+                     MouseDoubleClick="DoubleClick_Change" />
+        </GroupBox>
+
+        <ToolBar Grid.Row="2" Margin="5">
+            <Button Click="Open_File">
+                <Image Source="Imagies/songplaylist.png" ToolTip="Добавить трек"/>
+                <Button.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem  Width="20" Click="Load_Folder">
+                            <MenuItem.Icon>
+                                <Image Source="Imagies/lockiconsymbol.png" ToolTip="Добавить папку"/>
+                            </MenuItem.Icon>
+                            
+                        </MenuItem>
+                    </ContextMenu>
+                </Button.ContextMenu>
+            </Button>
+            <Button Click="Del_Click">
+                <Image Source="Imagies/trashbinsymbol.png" ToolTip="Удалить трек"/>
+                <Button.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem  Width="20" Click="Dell_All">
+                                <MenuItem.Icon>
+                                    <Image Source="Imagies/emptycontainer.png" ToolTip="Удалить всё"/>
+                                </MenuItem.Icon>
+
+                            </MenuItem>
+                        </ContextMenu>
+                    </Button.ContextMenu>
+            </Button>
+            <Border Margin="4" BorderBrush="Blue" CornerRadius="2" BorderThickness="1">
+                <Label x:Name="LblStatusTrek" Width="104"  FontSize="12"  Content="Not playing..." HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center"
+                       HorizontalAlignment="Center" Height="24" />
+            </Border>
+            <TextBlock Width="14" x:Name="TbSbTotalTracks" ToolTip="Количество треков" Background="Black" Margin="4" Foreground="LightGreen" TextAlignment="Center"/>
+
+
+            <ProgressBar x:Name="ProgressPosition" Width="100" Background="Black"
+                         Height="8" Margin="5,5"/>
+
+            <Button Click="Save_PlayList">
+                <Image Source="Imagies/listoffiles.png" ToolTip="Сохранить плейлист" />
+            </Button>
+            <Button Click="Load_PlayList">
+                <Image Source="Imagies/cabinetdrawers.png" ToolTip="Загрузить плейлист" />
+            </Button>
+
+        </ToolBar>
+
+
+
+    </Grid>
+</Window>
